@@ -15,7 +15,7 @@ use Symfony\Component\HttpFoundation\Session\Session;
 /**
  * Class Application
  *
- * Implements observer and MVC core
+ * Implements MVC core
  *
  * @package app
  *
